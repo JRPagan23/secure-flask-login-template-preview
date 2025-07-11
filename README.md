@@ -33,19 +33,9 @@ A beautifully designed, secure Flask login template — ideal for developers, st
 Secure your copy for just **$50**  
 Includes lifetime updates + support.
 
----
-
-## 📸 Screenshots  
-/Users/jorgerodriguezpagan/Desktop/Screenshot\ 2025-07-10\ at\ 8.30.58 PM.png 
-/Users/jorgerodriguezpagan/Desktop/Screenshot\ 2025-07-10\ at\ 9.22.42 PM.png
-/Users/jorgerodriguezpagan/Desktop/Screenshot\ 2025-07-10\ at\ 9.23.09 PM.png
-/Users/jorgerodriguezpagan/Desktop/Screenshot\ 2025-07-10\ at\ 9.22.00 PM.png
-/Users/jorgerodriguezpagan/Desktop/Screenshot\ 2025-07-10\ at\ 9.23.22 PM.png
-/Users/jorgerodriguezpagan/Desktop/Screenshot\ 2025-07-10\ at\ 9.22.22 PM.png 
----
 
 ## 📬 Contact  
 Built by Jorge Rodriguez Pagan  
-Reach me at: `your-email@example.com`
+Reach me at: `rodriguezpaganjorge@gmail.com`
 
 
